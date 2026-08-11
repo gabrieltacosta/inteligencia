@@ -46,6 +46,12 @@ function Ferramantas() {
           blank="_blank"
         />
         <Links
+          href="https://detetiveforense.com/auth/login"
+          src="/unidades/6bprv/inteligencia/ferramentas/detetive.ico"
+          text="Detetive Forense"
+          blank="_blank"
+        />
+        <Links
           href="https://alertabrasil.prf.gov.br/alertabrasil"
           src="/unidades/6bprv/inteligencia/ferramentas/alertaBrasil.svg"
           text="Alerta Brasil"
